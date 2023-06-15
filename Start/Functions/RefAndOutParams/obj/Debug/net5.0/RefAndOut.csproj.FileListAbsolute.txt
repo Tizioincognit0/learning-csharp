@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/bin/Debug/net5.0/RefAndOut.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/refint/RefAndOut.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/RefAndOut.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Functions/RefAndOutParams/obj/Debug/net5.0/ref/RefAndOut.dll

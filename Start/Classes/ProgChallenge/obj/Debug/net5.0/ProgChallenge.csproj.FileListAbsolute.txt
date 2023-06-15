@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/bin/Debug/net5.0/ProgChallenge.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/refint/ProgChallenge.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ProgChallenge.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Classes/ProgChallenge/obj/Debug/net5.0/ref/ProgChallenge.dll

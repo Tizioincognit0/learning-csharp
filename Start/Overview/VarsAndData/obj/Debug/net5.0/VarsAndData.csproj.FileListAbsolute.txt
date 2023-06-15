@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/bin/Debug/net5.0/VarsAndData.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/refint/VarsAndData.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/VarsAndData.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Overview/VarsAndData/obj/Debug/net5.0/ref/VarsAndData.dll

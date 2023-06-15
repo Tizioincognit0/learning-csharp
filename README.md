@@ -1,2 +1,2 @@
 # learning-csharp
-Learning C#
+Repository about Learning C# course by Joe Marini from LinkedIn Learning.

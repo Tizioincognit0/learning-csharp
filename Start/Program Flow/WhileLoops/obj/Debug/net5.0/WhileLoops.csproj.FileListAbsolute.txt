@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/bin/Debug/net5.0/WhileLoops.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/refint/WhileLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/WhileLoops.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/WhileLoops/obj/Debug/net5.0/ref/WhileLoops.dll

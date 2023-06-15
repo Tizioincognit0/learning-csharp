@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/bin/Debug/net5.0/ForLoops.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/refint/ForLoops.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ForLoops.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/ForLoops/obj/Debug/net5.0/ref/ForLoops.dll

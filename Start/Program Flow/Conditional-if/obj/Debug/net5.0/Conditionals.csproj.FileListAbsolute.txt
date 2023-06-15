@@ -1,0 +1,16 @@
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.AssemblyReference.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfoInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.AssemblyInfo.cs
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.csproj.CoreCompileInputs.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.deps.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.runtimeconfig.dev.json
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/bin/Debug/net5.0/Conditionals.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/refint/Conditionals.dll
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.pdb
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/Conditionals.genruntimeconfig.cache
+/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Conditional-if/obj/Debug/net5.0/ref/Conditionals.dll

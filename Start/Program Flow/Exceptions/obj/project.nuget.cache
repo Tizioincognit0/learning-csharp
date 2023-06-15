@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yyVwL+wIUxt068/2tNXk8G94uYD151CHW5H9ohGhLfgvg6Qufkp/D09ToH9Qe0fNPHh/NF5DIa+IFkruxqTWOg==",
+  "success": true,
+  "projectFilePath": "/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corso C#/Start/Program Flow/Exceptions/Exceptions.csproj",
+  "expectedPackageFiles": [
+    "/Users/eugeniorossi/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/eugeniorossi/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/eugeniorossi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

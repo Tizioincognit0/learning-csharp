@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Av9i4rvfoTXSBFh4vhhSvNF9eUTAjIOBdubx0v8MprVQQ+ES0DzPG2g5EYekwft8/gWdq413GNnQ5SI1GPo1qg==",
+  "success": true,
+  "projectFilePath": "/Users/eugeniorossi/Documents/MEGA/Lavoro/2.Aubay Italia S.p.A. (18⁄07⁄2022 - )/FAD/Corsi LinkedIn Learning/C#/Start/Strings/Parsing/Parsing.csproj",
+  "expectedPackageFiles": [
+    "/Users/eugeniorossi/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/eugeniorossi/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/eugeniorossi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
